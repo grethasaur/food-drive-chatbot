@@ -36,7 +36,7 @@ Contributions to this project are welcome! Feel free to fork this repository, ma
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU License](LICENSE).
 
 ## Acknowledgments
 
