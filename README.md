@@ -40,4 +40,4 @@ This project is licensed under the [GNU License](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to Gradient.ai for their model and support during the development of this chatbot.
+Special thanks to Gradient.ai for their pre-trained model.
