@@ -30,7 +30,7 @@ To run the chatbot locally, follow these steps:
 
 ## App Development (Work in Progress)
 
-The development of the data collection app is ongoing. More information and instructions will be provided once the app reaches a usable state.
+Data collection app deployed in **Completed App:** <https://github.com/grethasaur/food-drive-chatbot>
 
 ## Contributing
 
