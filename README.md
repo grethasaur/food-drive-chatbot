@@ -2,7 +2,7 @@
 
 **App link:** <https://food-drive-chatbot-2g2yubvwk2hzxrqq3uustn.streamlit.app/>
 
-This project involves deploying a chatbot using Streamlit and Gradient.ai to answer questions about the Edmonton city food drive. Additionally, there's ongoing development for an app to collect data for the same food drive.
+This project involves deploying a chatbot using Streamlit and Gradient.ai to answer questions about the Edmonton city food drive. 
 
 ## Overview
 
