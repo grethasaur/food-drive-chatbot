@@ -28,7 +28,7 @@ To run the chatbot locally, follow these steps:
 - Once the Streamlit app is running, type your questions about the city food drive into the chatbot interface.
 - The chatbot will provide answers based on its fine-tuned model.
 
-## App Development (Work in Progress)
+## App Development
 
 Data collection app deployed in <https://github.com/grethasaur/City-Food-Drive-App>
 
